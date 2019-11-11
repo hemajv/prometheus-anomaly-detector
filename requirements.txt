@@ -5,3 +5,4 @@ prometheus_api_client
 tornado
 fbprophet
 mlflow
+statsmodels
