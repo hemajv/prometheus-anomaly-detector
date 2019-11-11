@@ -12,6 +12,7 @@ tornado = "*"
 fbprophet = "*"
 dateparser = "*"
 mlflow = "*"
+statsmodels = "*"
 
 [requires]
 python_version = "3.6"
