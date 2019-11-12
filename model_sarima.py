@@ -39,7 +39,7 @@ class MetricPredictor:
         )
         print("Fit the trained model...\n")
         model_fit = model.fit(dsip=-1)
-        print("Forecast values\n")
+        print("Forecast values....\n")
         forecast = model_fit.forecast(range)
         print(type(forecast))
         print("Successfully, ended the model training\n")
